@@ -13,4 +13,4 @@ Once it has been spun up, you should get the login page, but going to: `https://
 
 You should get the following screen:
 
-![Login page](images\Login_screen.png)
+![Login page](images/Login_screen.png)
